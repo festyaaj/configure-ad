@@ -22,9 +22,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Virtual machine with Windows Server
-- Create Admin and Users
-- Step 3
-- Step 4
+- Install Active Directory
+- Create Admin and Users in AD
+- Run script in Powershell to create accounts
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -53,11 +53,10 @@ Created Admin and Users
 <br />
 
 <p>
-<img src="<p>
 <img src="https://i.imgur.com/902bi6F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ran a script through Powershell ISE to create new accounts for Active Directory Users and Computers
+Ran a script in Powershell ISE to create accounts in Active Directory
 </p>
 
 <br />
