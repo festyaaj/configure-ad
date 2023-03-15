@@ -54,3 +54,17 @@ Installed Active Directory on Server Manager
 Created Admin and Users
 </p>
 <br />
+
+<p>
+<img src="<p>
+<img src="https://i.imgur.com/vbHraFB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ran a script through Powershell ISE to create new accounts for Active Directory Users and Computers
+</p>
+<br />" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created Admin and Users
+</p>
+<br />
